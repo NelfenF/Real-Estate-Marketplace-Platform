@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLOHR_ProjectThree", "FLOHR_ProjectThree\FLOHR_ProjectThree.csproj", "{040FB2D5-87DA-4310-8F28-4225297F0A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateLibrary", "RealEstateLibrary\RealEstateLibrary.csproj", "{6F525F7D-1D71-493C-B589-CB61FAC74EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040FB2D5-87DA-4310-8F28-4225297F0A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040FB2D5-87DA-4310-8F28-4225297F0A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040FB2D5-87DA-4310-8F28-4225297F0A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040FB2D5-87DA-4310-8F28-4225297F0A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F525F7D-1D71-493C-B589-CB61FAC74EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F525F7D-1D71-493C-B589-CB61FAC74EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F525F7D-1D71-493C-B589-CB61FAC74EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F525F7D-1D71-493C-B589-CB61FAC74EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0711E8F-12BA-4B4F-BB55-1D8F39707945}
+	EndGlobalSection
+EndGlobal
